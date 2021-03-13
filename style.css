@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "RalewayRegular";
+    src: url("fonts/DejaVuSansMono.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.flag{
+    width: auto;
+    height: 90px;
+    filter: blur(3px);
+}
+.imgPidors{
+    margin-left: 30px;
+    border-radius: 90px;
+    height: 120px;
+    width: 120px;
+    margin-bottom: 40px;
+}
+.namePidors{
+    position: absolute;
+    font-family: 'DejaVu Sans Mono';
+    font-size: 22px;
+    margin-left: 12%;
+    margin-top: -155px;
+}
+.footherText{
+    font-family: 'DejaVu Sans Mono';
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+#red{
+    background: red;
+}
+#orange{
+    background: orange;
+}
+#yellow{
+    background: yellow;
+}
+#green{
+    background: green;
+}
+#blue{
+    background: blue;
+}
+#purple{
+    background: fuchsia;
+}
+#sdp{
+    height: 200px;
+    width: 200px;
+    margin-top: -500px;
+    margin-left: 60px;
+    position: absolute;
+}
+
+#pidarasi{
+    position: absolute;
+    margin-top: -530px;
+    margin-left: 40%;
+    font-family: 'DejaVu Sans Mono';
+}
+#warn{
+    font-family: 'DejaVu Sans Mono';
+    margin-left: 6%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#footer{
+    padding-top: 20px;
+    margin-top: 200px;
+    width: auto;
+    height: 200px;
+  }
+.saske{
+    margin-left: 40px;
+    font-family: 'DejaVu Sans Mono';
+}
