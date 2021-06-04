@@ -1,5 +1,5 @@
 (async () => {
-    const resp = await fetch('/users')
+    const resp = await fetch('/2sdp/users')
     const users = await resp.json()
     let div = ''
     users.forEach(item => {
